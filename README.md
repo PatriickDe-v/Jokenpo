@@ -1,0 +1,2 @@
+# Jokenpo
+Game: PEDRA PAPAL E TESOURA
